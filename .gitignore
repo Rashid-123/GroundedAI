@@ -64,3 +64,4 @@ client/.vite/
 client/.next/
 client/.turbo/
 server/.cache/
+server/node_modules
